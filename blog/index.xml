@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on FIRE を目指す社畜</title>
+    <title>blog on FIRE を目指す社畜</title>
     <link>/blog/</link>
-    <description>Recent content in Blogs on FIRE を目指す社畜</description>
+    <description>Recent content in blog on FIRE を目指す社畜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Aug 2021 21:37:23 +0900</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 21:52:18 -0700</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>クレジットカード調査内容まとめ</title>
       <link>/blog/2021-08-07-credit-cards/</link>
