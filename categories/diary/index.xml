@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diary on FIRE を目指す社畜</title>
+    <link>/categories/diary/</link>
+    <description>Recent content in diary on FIRE を目指す社畜</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 07 Aug 2021 21:36:23 +0900</lastBuildDate><atom:link href="/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめに</title>
+      <link>/blog/2021-08-07-introduction/</link>
+      <pubDate>Sat, 07 Aug 2021 21:36:23 +0900</pubDate>
+      
+      <guid>/blog/2021-08-07-introduction/</guid>
+      <description>最近流行りの FIRE を目指そうと夢見る社畜系のエンジニアです。進める上で様々な金融系の情報を調べようかと思っているので、防備録を兼ねてブログにまとめていこうと思います。
+最初はクレジットカード系の情報をまとめていく予定で、余裕ができたら証券会社やその他の情報もまとめていこうと思います。</description>
+    </item>
+    
+  </channel>
+</rss>
