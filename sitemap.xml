@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-08-26T19:37:23+09:00</lastmod>
+  </url><url>
+    <loc>/tags/credit-cards/</loc>
+    <lastmod>2021-08-26T19:37:23+09:00</lastmod>
+  </url><url>
+    <loc>/categories/credit-cards/</loc>
+    <lastmod>2021-08-26T19:37:23+09:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-08-26T19:37:23+09:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-26T19:37:23+09:00</lastmod>
+  </url><url>
+    <loc>/blog/credit-cards/aeon/</loc>
+    <lastmod>2021-08-26T19:37:23+09:00</lastmod>
+  </url><url>
+    <loc>/blog/credit-cards/aeon-gold/</loc>
+    <lastmod>2021-08-26T19:37:23+09:00</lastmod>
+  </url><url>
     <loc>/blog/credit-cards/au-pay/</loc>
     <lastmod>2021-08-25T19:37:23+09:00</lastmod>
   </url><url>
     <loc>/blog/credit-cards/au-pay-gold/</loc>
-    <lastmod>2021-08-25T19:37:23+09:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-08-25T19:37:23+09:00</lastmod>
-  </url><url>
-    <loc>/tags/credit-cards/</loc>
-    <lastmod>2021-08-25T19:37:23+09:00</lastmod>
-  </url><url>
-    <loc>/categories/credit-cards/</loc>
-    <lastmod>2021-08-25T19:37:23+09:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-08-25T19:37:23+09:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-08-25T19:37:23+09:00</lastmod>
   </url><url>
     <loc>/blog/credit-cards/d-card/</loc>
